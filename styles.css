@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+table, td, tr{
+	border:1px solid black;	
+	text-align:center;
+}
+
+.nested-table{
+	border:1px solid black;
+}
